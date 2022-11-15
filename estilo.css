@@ -1,0 +1,138 @@
+* {
+    margin: 15px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* formatando layout */
+
+#essencial {
+    border: 5px solid gray;
+}
+
+/* excel */
+
+#nav {
+    border: 4px solid green
+}
+
+#sel {
+    border: 4px solid green;
+}
+
+#pastas {
+    border: 4px solid green;
+}
+#ins {
+    border: 4px solid green;
+}
+#fn {
+    border: 4px solid green;
+}
+#edit {
+    border: 4px solid green;
+}
+
+#form {
+    border: 4px solid green;
+}
+
+/* fim excel */
+
+#word {
+    border: 5px solid blue;
+}
+
+#desktop {
+    border: 5px solid rgb(0, 221, 255);
+}
+
+#explorer {
+    border: 5px solid yellow;
+}
+
+#topo {
+    text-align: center;
+    display: block;
+}
+
+#topo a {
+    text-decoration: none;
+}
+
+#meio {
+    border: 5px solid yellow;
+}
+
+#meio2 {
+    border: 5px solid aqua;
+}
+
+.windows {
+    color: gray;
+}
+
+.excel {
+    color: green;
+}
+
+.word {
+    color: blue;
+}
+
+.explorer {
+    color: yellow;
+}
+
+.desktop {
+    color: aqua;
+}
+
+.windows:hover {
+    color: white;
+    background-color: #CCC;
+}
+
+.excel:hover {
+    color: white;
+    background-color: green;
+}
+
+.word:hover {
+    background-color: blue;
+    color: white;
+}
+
+.explorer:hover {
+    background-color: yellow;
+    color: white;
+}
+
+.desktop:hover {
+    background-color: aqua;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 15px;
+    text-align: center;
+}
+
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
